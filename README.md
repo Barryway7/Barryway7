@@ -14,3 +14,4 @@ MS student in Electrical Engineering at **USC**, working with [Prof. Paul Bogdan
 - [Pin-QSSVM](https://github.com/Barryway7/Pin-SQSSVM) — robust kernel-free SVM with pinball loss (+11% accuracy over QSSVM)
 - [School-Bullying Detection System](https://github.com/Barryway7/Anti-bullying-System) — real-time YOLOv5 + DeepSORT monitoring pipeline
 - [Stroke Prediction (DAML 2023)](https://github.com/Barryway7/Exploratory-Data-Analysis-and-Machine-Learning-Models-for-Stroke-Prediction) — published benchmark of ML models on clinical stroke data
+- [Motion-Sensing Robotic Arm](https://github.com/Barryway7/motion-sensing-robotic-arm) — wearable exoskeleton glove teleoperating a 6-DOF arm (STM32 + MPU6050)
