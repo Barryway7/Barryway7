@@ -3,7 +3,7 @@
 MS student in Electrical Engineering at **USC**, working with [Prof. Paul Bogdan](https://cps.usc.edu/) on risk estimation in multi-agent systems and stability-aware operator learning. Before USC, I received my BEng in Automation from Northeastern University.
 
 - 🔬 Research interests: safe & stable learning-based control · neural operators & physics-informed ML · multi-agent systems · optimization
-- 📝 Co-first-author of **TF-Risk** (under review, AAAI 2027); author of a DAML 2023 paper on ML for stroke prediction
+- 📝 Co-first-author of **TF-Risk** (under review); author of a DAML 2023 paper on ML for stroke prediction
 - 🎯 Currently applying to PhD programs
 - 🏠 Homepage: [barryway7.github.io](https://barryway7.github.io)
 - 📫 Reach me: [wfu30487@usc.edu](mailto:wfu30487@usc.edu) · [Google Scholar](https://scholar.google.com/citations?user=vVaJlGUAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/wei-fu-a74aaa379)
