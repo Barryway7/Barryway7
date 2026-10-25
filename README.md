@@ -1,10 +1,10 @@
 ## Wei Fu
 
-MS student in Electrical Engineering at **USC**, working with [Prof. Paul Bogdan](https://cps.usc.edu/) on risk estimation in multi-agent systems and stability-aware operator learning. Before USC, I received my BEng in Automation from Northeastern University. I am currently applying to PhD programs.
+MS student in Electrical Engineering at **USC**, working with [Prof. Paul Bogdan](https://cps.usc.edu/) on non-Markovian dynamics of large language models and multi-agent LLM systems. Before USC, I received my BEng in Automation from Northeastern University. I am currently applying to PhD programs.
 
-Research interests: safe and stable learning-based control · neural operators and physics-informed ML · multi-agent systems · optimization.
+Research interests: fractional-order dynamics of LLM hidden states and agent communication · failure prediction and protocol design for multi-agent LLM systems · neural operators and structure-preserving learning · learning-based control.
 
-Co-first-author of **TF-Risk** (under review), and author of a DAML 2023 paper on machine learning for stroke prediction.
+Co-first author of **TF-Risk**, on forecasting false consensus in multi-agent LLM systems with time-fractional dynamics; co-author of *The Dynamics Beneath Language* (under review); author of a DAML 2023 paper on machine learning for stroke prediction.
 
 [barryway7.github.io](https://barryway7.github.io) · [wfu30487@usc.edu](mailto:wfu30487@usc.edu) · [Google Scholar](https://scholar.google.com/citations?user=vVaJlGUAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/wei-fu-a74aaa379)
 
