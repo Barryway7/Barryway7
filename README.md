@@ -2,9 +2,9 @@
 
 MS student in Electrical Engineering at **USC**, working with [Prof. Paul Bogdan](https://cps.usc.edu/) on non-Markovian dynamics of large language models and multi-agent LLM systems. Before USC, I received my BEng in Automation from Northeastern University. I am currently applying to PhD programs.
 
-Research interests: fractional-order dynamics of LLM hidden states and agent communication · failure prediction and protocol design for multi-agent LLM systems · neural operators and structure-preserving learning · learning-based control.
+Research interests: fractional-order dynamics of LLMs · multi-agent LLM systems · neural operators · learning-based control.
 
-Co-first author of **TF-Risk**, on forecasting false consensus in multi-agent LLM systems with time-fractional dynamics; co-author of *The Dynamics Beneath Language* (under review); author of a DAML 2023 paper on machine learning for stroke prediction.
+Papers: **TF-Risk** (co-first author) · *The Dynamics Beneath Language* (under review) · DAML 2023.
 
 [barryway7.github.io](https://barryway7.github.io) · [wfu30487@usc.edu](mailto:wfu30487@usc.edu) · [Google Scholar](https://scholar.google.com/citations?user=vVaJlGUAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/wei-fu-a74aaa379)
 
